@@ -1,4 +1,4 @@
-SQL là gì? 🤔
+# SQL là gì? 🤔
 
 ✅ SQL - viết tắt của Structured Query Language, là ngôn ngữ truy vấn dữ liệu có cấu trúc. Nó gồm các câu lệnh dùng để tương tác với cơ sở dữ liệu quan hệ.
 ✅ Tất cả các hệ thống quản lý cơ sở dữ liệu quan hệ(RDMS) như MySQL, Oracle, Postgres, MS Access, SQL Server đều sử dụng SQL làm ngôn ngữ dữ liệu chuẩn.
